@@ -78,7 +78,7 @@ const remoteMethod = (query: string) => {
 }
 
 const states = [
-  'Alabama',
+  '上海',
   'Alaska',
   'Arizona',
   'Arkansas',
